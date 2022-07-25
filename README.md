@@ -9,9 +9,7 @@
 - 🔥 Check out my GitHub Gist code collections: https://gist.github.com/omishah ...
 - 🔗 Brand Website: https://codecyan.com - CodeCyan! ...
 
-- ❤️ Follow me at ``@iomishah`` :: <a target="_blank" href="https://www.instagram.com/iomishah">Instagram</a> / <a target="_blank" href="https://twitter.com/iOMiShah">Twitter</a> / <a target="_blank" href="https://www.facebook.com/iOMiShah">Facebook</a>.
-
-
+- ❤️ Follow me at ``@iomishah`` :: <a target="_blank" href="https://www.linkedin.com/in/omishah">LinkedIn</a> / <a target="_blank" href="https://www.instagram.com/iomishah">Instagram</a> / <a target="_blank" href="https://twitter.com/iOMiShah">Twitter</a> / <a target="_blank" href="https://www.facebook.com/iOMiShah">Facebook</a>.
 
 <!---
 omishah/omishah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
